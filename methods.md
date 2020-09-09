@@ -1,5 +1,6 @@
-# Discord API Shit
+# Discord API Methods
 
+----------------------------------------------------------------------------------
 
 URL : https://discord.com/api/v8/guilds/Server ID/bans/ 
 

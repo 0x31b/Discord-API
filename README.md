@@ -2,8 +2,11 @@
 
 
 URL : https://discord.com/api/v8/guilds/Server ID/bans/ 
+
 Method : Get
+
 Info : Returns all bans in json format including username, id, tag, and flags
+
 
 URL : https://discord.com/api/v8/guilds/Server ID/bans/User ID
 Method : Delete

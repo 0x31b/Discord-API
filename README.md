@@ -215,3 +215,45 @@ Method : Delete
 Info : Deletes a integration
 
 ----------------------------------------------------------------------------------
+
+URL : https://discordapp.com/__development/source_maps
+
+Method : Get
+
+Info : Returns the source map with in discord
+
+----------------------------------------------------------------------------------
+
+URL : https://discordapp.com/__development/create_build_override_link
+
+Method : Patch
+
+Info : Creates a build overide link 
+
+----------------------------------------------------------------------------------
+
+URL : https://discordapp.com/api/v8/sticker-packs
+
+Method : Get
+
+Info : Development will respond 403 without permision
+
+----------------------------------------------------------------------------------
+
+URL : https://discordapp.com/api/v8/users/@me/sticker-packs
+
+Method : Get
+
+Info : Trys to return a sticker pack not yet made 403 responce
+
+----------------------------------------------------------------------------------
+
+URL : http://127.0.0.1:3435/rpc?log
+
+Method : Get
+
+Info : Discord opens a port on your pc for rpc and its gay responds with a authorization token if logged into client or webapp
+
+----------------------------------------------------------------------------------
+
+
